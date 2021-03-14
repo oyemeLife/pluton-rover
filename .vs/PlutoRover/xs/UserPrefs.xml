@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{B8258CA5-B58C-48E0-8489-DAA33F6F7BCB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PlutoRover/RoverCore/Models/PositionState.cs">
+    <Files>
+      <File FileName=".editorconfig" Line="5" Column="1" />
+      <File FileName="PlutoRover/RoverCore/Landscape.cs" Line="1" Column="1" />
+      <File FileName="PlutoRover/RoverCore/Rover.cs" Line="1" Column="1" />
+      <File FileName="PlutoRover/Program.cs" Line="1" Column="1" />
+      <File FileName="PlutoRover/Startup.cs" Line="1" Column="1" />
+      <File FileName="PlutoRover/Controllers/RoverController.cs" Line="14" Column="28" />
+      <File FileName="PlutoRover/RoverCore/Models/ActionCommand.cs" Line="1" Column="1" />
+      <File FileName="PlutoRover/RoverCore/Models/Command.cs" Line="10" Column="6" />
+      <File FileName="PlutoRoverTests/MovementsProviderTest.cs" Line="1" Column="1" />
+      <File FileName="PlutoRoverTests/PlutoRoverTest.cs" Line="90" Column="65" />
+      <File FileName="PlutoRover/RoverCore/Models/PositionState.cs" Line="29" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PlutoRover" expanded="True">
+            <Node name="PlutoRover" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="RoverCore" expanded="True">
+                <Node name="Models" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="PlutoRoverTests" expanded="True">
+              <Node name="PlutoRoverTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PlutoRover PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
