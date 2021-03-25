@@ -1,17 +1,22 @@
 ﻿<Properties StartupConfiguration="{B8258CA5-B58C-48E0-8489-DAA33F6F7BCB}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PlutoRover/RoverCore/Models/PositionState.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PlutoRover/RoverCore/Provider/MovementsProvider.cs">
     <Files>
       <File FileName=".editorconfig" Line="5" Column="1" />
       <File FileName="PlutoRover/RoverCore/Landscape.cs" Line="1" Column="1" />
-      <File FileName="PlutoRover/RoverCore/Rover.cs" Line="1" Column="1" />
+      <File FileName="PlutoRover/RoverCore/Rover.cs" Line="45" Column="10" />
       <File FileName="PlutoRover/Program.cs" Line="1" Column="1" />
       <File FileName="PlutoRover/Startup.cs" Line="1" Column="1" />
-      <File FileName="PlutoRover/Controllers/RoverController.cs" Line="14" Column="28" />
+      <File FileName="PlutoRover/Controllers/RoverController.cs" Line="32" Column="1" />
       <File FileName="PlutoRover/RoverCore/Models/ActionCommand.cs" Line="1" Column="1" />
       <File FileName="PlutoRover/RoverCore/Models/Command.cs" Line="10" Column="6" />
       <File FileName="PlutoRoverTests/MovementsProviderTest.cs" Line="1" Column="1" />
-      <File FileName="PlutoRoverTests/PlutoRoverTest.cs" Line="90" Column="65" />
+      <File FileName="PlutoRoverTests/PlutoRoverTest.cs" Line="13" Column="49" />
       <File FileName="PlutoRover/RoverCore/Models/PositionState.cs" Line="29" Column="12" />
+      <File FileName="PlutoRover/RoverCore/Interface/IMovementsProvider.cs" Line="1" Column="1" />
+      <File FileName="PlutoRover/RoverCore/Interface/IObstacle.cs" Line="1" Column="1" />
+      <File FileName="PlutoRover/RoverCore/Models/DirectionEnum.cs" Line="1" Column="1" />
+      <File FileName="PlutoRover/RoverCore/Models/Obstacle.cs" Line="1" Column="1" />
+      <File FileName="PlutoRover/RoverCore/Provider/MovementsProvider.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,12 +25,15 @@
             <Node name="PlutoRover" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="RoverCore" expanded="True">
+                <Node name="Exceptions" expanded="True" />
+                <Node name="Interface" expanded="True" />
                 <Node name="Models" expanded="True" />
+                <Node name="Provider" expanded="True">
+                  <Node name="MovementsProvider.cs" selected="True" />
+                </Node>
               </Node>
             </Node>
-            <Node name="PlutoRoverTests" expanded="True">
-              <Node name="PlutoRoverTest.cs" selected="True" />
-            </Node>
+            <Node name="PlutoRoverTests" expanded="True" />
           </Node>
         </State>
       </Pad>
